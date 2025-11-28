@@ -163,7 +163,7 @@ What improvements were observed with iterative refinement?
 Importance:
 This forms the analytical conclusion of the experiment.
 
-RESULT:
+# Result:
 
 The experiment was conducted successfully. All selected prompting techniques were applied to generate and refine video outputs using an AI video-generation model. Each technique produced distinct effects on scene structure, realism, camera movement, color consistency, and adherence to the prompt.
 Key findings include:
@@ -181,14 +181,3 @@ Iterative refinement prompting produced the best overall video quality.
 Negative prompts reduced visual distortions and unwanted artifacts.
 
 Overall, the exploration demonstrated that prompt engineering plays a critical role in determining the quality, realism, coherence, and aesthetic appeal of AI-generated video content. The aim of the task was met, and the prompting techniques were successfully executed and evaluated.
-
-
-
-
-
-
-
-
-
-# Result:
-
