@@ -2,11 +2,12 @@
 
 # Date: 28.10.2025
 # Register no.: 212222080013
-AIM:
+# AIM:
 The primary aim of this experiment is to systematically explore and evaluate the effectiveness of different prompting techniques used in AI-based video generation systems. This includes examining how variations in prompt structure, prompt clarity, descriptive richness, sequential reasoning, and sample-based prompting influence the quality, realism, motion dynamics, coherence, and stylistic consistency of generated video content. The goal is to determine which prompting strategies best support specific video types—such as cinematic scenes, animations, character-driven sequences, advertisements, or educational clips—and how prompt engineering impacts the final output of modern video-generation models.
 
-ALGORITHM : Exploration of Prompting Techniques for Video Generation
-Step 1: Define the Objective of Video Generation
+# ALGORITHM : Exploration of Prompting Techniques for Video Generation
+
+# Step 1: Define the Objective of Video Generation
 
 Identify the purpose of the video (e.g., storytelling, promotional content, animation).
 
@@ -25,7 +26,7 @@ Style (realistic, animated, comic-style, cinematic, abstract)
 Importance:
 Clear initial objectives serve as the foundation for selecting the most appropriate prompting strategy.
 
-Step 2: Select and Prepare Prompting Techniques
+# Step 2: Select and Prepare Prompting Techniques
 
 Choose the prompting methods to be used in the experiment:
 
@@ -62,7 +63,7 @@ Use images, sketches, reference frames, or audio along with text.
 Importance:
 Different techniques target different aspects of video generation such as realism, creativity, motion consistency, and adherence to theme.
 
-Step 3: Draft the Initial Video Prompts
+# Step 3: Draft the Initial Video Prompts
 
 Prepare detailed prompts including:
 
@@ -95,7 +96,7 @@ Hyperrealistic, anime-style, cinematic, futuristic, slow-motion.
 Importance:
 Stronger descriptive prompts generally yield clearer and more coherent video outputs.
 
-Step 4: Generate the Initial Video Output
+# Step 4: Generate the Initial Video Output
 
 Input the prepared prompt into an AI video model (e.g., Pika Labs, Runway Gen-2, Luma Dream Machine).
 
@@ -112,7 +113,7 @@ Generate the first version of the video.
 Observation:
 This output is used to evaluate how the model interprets a given prompting technique.
 
-Step 5: Evaluate the Output
+# Step 5: Evaluate the Output
 
 Assess the generated video based on:
 
@@ -133,7 +134,7 @@ Overall Creativity and Style
 Importance:
 Evaluating specific parameters reveals which prompting techniques affect which aspects of the video.
 
-Step 6: Apply Iterative Refinement Prompting
+# Step 6: Apply Iterative Refinement Prompting
 
 Modify the prompt based on issues observed:
 
@@ -150,7 +151,7 @@ Repeat until satisfactory results are achieved.
 Importance:
 Iterative refinement is often the most effective strategy to stabilize video quality.
 
-Summarize findings:
+# Summarize findings:
 
 Which prompting technique produced the most coherent motion?
 
